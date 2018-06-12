@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApplication</string>
+
+    <!--当前网络状态描述-->
+    <string name="description_wifi">切换到wifi环境下</string>
+    <string name="description_2g">切换到2G环境下</string>
+    <string name="description_3g">切换到3G环境下</string>
+    <string name="description_4g">切换到4G环境下</string>
+    <string name="description_unknown_network">未知网络</string>
+    <string name="description_no_network">当前无网络连接</string>
 </resources>
